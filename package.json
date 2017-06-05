@@ -1,0 +1,21 @@
+{
+  "name": "projectpaper",
+  "version": "1.0.0",
+  "description": "Project Paper, Pixi version experiment",
+  "main": "initialize.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jreala/Project-Paper-Pixi.git"
+  },
+  "author": "Jason Eala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jreala/Project-Paper-Pixi/issues"
+  },
+  "homepage": "https://github.com/jreala/Project-Paper-Pixi#readme"
+}
